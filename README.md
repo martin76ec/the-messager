@@ -1,7 +1,5 @@
 # the-messager
 
-![The Messenger](https://github.com/martin76ec/repo-images/blob/master/the-messager.png)
-
 Typescript, zod templated, not blazingly fast, poorly designed nodejs fetch wrapper
 
 ## How to use
